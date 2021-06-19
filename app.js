@@ -81,6 +81,7 @@ const playSnd = key =>{
 for(let x = 0; x < myKeys.length; x++){
   myKeys[x].addEventListener("click", function(){
   playSnd(myKeys[x].value);
+  alert("hi)
   })
 }
 
