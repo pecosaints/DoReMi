@@ -5,71 +5,71 @@ const myKeys = document.querySelectorAll(".key");
 const playSnd = key =>{
   switch(key){
     case "q":
-      let audio = new Audio("doremi_starting_files/doremi/C4.mp3");
+      let audio = new Audio("C4.mp3");
       audio.play();
       break;
     case "w":
-      let audio1 = new Audio("doremi_starting_files/doremi/D4.mp3");
+      let audio1 = new Audio("D4.mp3");
       audio1.play();
       break;
     case "e":
-      let audio2 = new Audio("doremi_starting_files/doremi/E4.mp3");
+      let audio2 = new Audio("E4.mp3");
       audio2.play();
       break;
     case "r":
-      let audio3 = new Audio("doremi_starting_files/doremi/F4.mp3");
+      let audio3 = new Audio("F4.mp3");
       audio3.play();
       break;
     case "t":
-      let audio4 = new Audio("doremi_starting_files/doremi/G4.mp3");
+      let audio4 = new Audio("G4.mp3");
       audio4.play();
       break;
     case "y":
-      let audio5 = new Audio("doremi_starting_files/doremi/A4.mp3");
+      let audio5 = new Audio("A4.mp3");
       audio5.play();
       break;
     case "u":
-      let audio6 = new Audio("doremi_starting_files/doremi/B4.mp3");
+      let audio6 = new Audio("B4.mp3");
       audio6.play();
       break;
     case "i":
-      let audio7 = new Audio("doremi_starting_files/doremi/C5.mp3");
+      let audio7 = new Audio("C5.mp3");
       audio7.play();
       break;
     case "o":
-      let audio15 = new Audio("doremi_starting_files/doremi/D5.mp3");
+      let audio15 = new Audio("D5.mp3");
       audio15.play();
       break; 
     case "p":
-      let audio16 = new Audio("doremi_starting_files/doremi/E5.mp3");
+      let audio16 = new Audio("E5.mp3");
       audio16.play();
       break; 
     case "2":
-      let audio8 = new Audio("doremi_starting_files/doremi/Db4.mp3");
+      let audio8 = new Audio("Db4.mp3");
       audio8.play();
       break;
     case "3":
-      let audio9 = new Audio("doremi_starting_files/doremi/Eb4.mp3");
+      let audio9 = new Audio("Eb4.mp3");
       audio9.play();
       break;
     case "5":
-      let audio10 = new Audio("doremi_starting_files/doremi/Gb4.mp3");
+      let audio10 = new Audio("Gb4.mp3");
       audio10.play();
       break;
     case "6":
-      let audio11 = new Audio("doremi_starting_files/doremi/Ab4.mp3");
+      let audio11 = new Audio("Ab4.mp3");
       audio11.play();
       break;
     case "7":
-      let audio12 = new Audio("doremi_starting_files/doremi/Bb4.mp3");
+      let audio12 = new Audio("Bb4.mp3");
       audio12.play();
       break;   
     case "9":
-      let audio13 = new Audio("doremi_starting_files/doremi/Db5.mp3");
+      let audio13 = new Audio("Db5.mp3");
       audio13.play();
       break; 
     case "0":
-      let audio14 = new Audio("doremi_starting_files/doremi/Eb5.mp3");
+      let audio14 = new Audio("Eb5.mp3");
       audio14.play();
       break;         
     default:
