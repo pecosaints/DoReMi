@@ -80,8 +80,8 @@ const playSnd = key =>{
 //Loop for event in case the key is pressed by mouse - click event
 for(let x = 0; x < myKeys.length; x++){
   myKeys[x].addEventListener("click", function(){
-  playSnd(myKeys[x].value);
-  alert("hi)
+    playSnd(myKeys[x].value);
+    alert("hi);
   })
 }
 
