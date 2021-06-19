@@ -30,6 +30,6 @@ Building this project i had the chance to familiarize with the basics of pure Fr
 
   # Existing Issues:
   <ul>
-   <li> It is'nt responsive</li>
+   <li> It is not responsive</li>
    <li> When clicked with keyboard key, button does not get unfucused</li>
   </ul>
