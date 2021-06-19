@@ -27,3 +27,9 @@ Building this project i had the chance to familiarize with the basics of pure Fr
   ![image](https://user-images.githubusercontent.com/80483432/122479842-20fc7680-cfa2-11eb-8b37-3a5c84209cd4.png)
 
  <ul>
+
+  # Existing Issues:
+  <ul>
+   <li> It is'nt responsive</li>
+   <li> When clicked with keyboard key, button does not get unfucused</li>
+  </ul>
