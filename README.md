@@ -33,7 +33,7 @@ Building this project i had the chance to familiarize with the basics of pure Fr
   <ul>
    <li> It is not responsive</li>
    <li> When clicked with keyboard key, button does not get unfocused</li>
-   <li> Time gap between sound and click on the first click of each key</li>
+   <li> Time gap between sound and click on first click of each key</li>
   </ul>
 
   # Link
